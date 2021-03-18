@@ -1,4 +1,48 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+
+
+<h1 align="center">
+  📰 Gatsby static site
+</h1>
+
+
+<p align="center">
+
+  <a alt="Arthur Lima Linkedin" href="https://www.linkedin.com/in/arthur-lima-294ab0103/">
+    <img src="https://img.shields.io/badge/LinkedIn-Arthur-blue?logo=linkedin"/></a>
+ 
+  <a alt="Arthur Lima GitHub" href="https://github.com/thurdelima">
+  <img src="https://img.shields.io/badge/GitHub-thurdelima-lightgrey?logo=github"/></a>
+ 
+
+</p>
+<br/>
+
+Static site create with gatsby
+
+<br/>
+
+![alt text](https://raw.githubusercontent.com/thurdelima/gatsby-reacjs-static-site/master/blog_gatsby.gif)
+
+
+<br/>
+
+
+<h4 align="center">
+  ---
+
+Made with ♥   by Arthur Lima :wave: [Get in touch!](https://www.linkedin.com/in/arthur-lima-294ab0103/)
+</h4>
+
+
+
+<br/>
+
+
+
+
+
+
 <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
